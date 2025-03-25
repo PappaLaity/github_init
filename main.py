@@ -1,1 +1,1 @@
-print(Pappa Laity)
+print('Pappa Laity')
